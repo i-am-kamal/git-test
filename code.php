@@ -1,3 +1,3 @@
 <?php 
-    
+    $x = "Hello world!";
 ?>
