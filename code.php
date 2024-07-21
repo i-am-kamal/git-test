@@ -7,5 +7,5 @@
         echo $cars[$i] . '<br>';
     }*/
     //var_dump($cars);
-    print_r($cars);
+    //print_r($cars);
 ?>
