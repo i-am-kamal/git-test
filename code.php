@@ -9,4 +9,5 @@
     //var_dump($cars);
     //print_r($cars);
     //echo $cars["why"];
+    echo "I love you";
 ?>
