@@ -1,5 +1,5 @@
 <?php 
-    $cars = array("bmw","pride","benz","phonix");
+    $cars = array("why"=>"bmw","pride","benz","phonix");
     /*foreach($cars as $car){
         echo $car . '<hr>';
     }*/
@@ -8,4 +8,5 @@
     }*/
     //var_dump($cars);
     //print_r($cars);
+    //echo $cars["why"];
 ?>
