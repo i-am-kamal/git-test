@@ -20,7 +20,7 @@
         )
         );
     //var_dump($users);
-    print_r($users["user_1"]["name"]);
-    echo "<br>";
-    echo $users["user_2"]["name"]["last_name"];
+    //print_r($users["user_1"]["name"]);
+    //echo "<br>";
+    //echo $users["user_2"]["name"]["last_name"];
 ?>
