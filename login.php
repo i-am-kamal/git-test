@@ -4,5 +4,8 @@
         if($username == "amir"){
             echo "welcom amir";
         }
+        else{
+            echo "wellcome $username";
+        }
     }
 ?>
