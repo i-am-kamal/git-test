@@ -1,8 +1,11 @@
 <?php
     include("index.html");
     function username($username){
-        if(empty($username)){
-            echo "something is meissing";
+        if($username == "amir"){
+            echo "welcome amir";
+        }
+        else {
+            echo "welcome {$username}";
         }
     }
 ?>
