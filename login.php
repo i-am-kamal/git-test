@@ -5,4 +5,9 @@
             echo "something is meissing";
         }
     }
+    function password($password){
+        if(empty($password)){
+            echo "something is missing";
+        }
+    }
 ?>
