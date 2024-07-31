@@ -7,4 +7,9 @@
         echo true;
     }
     print("Hello World!");
+
+    $password = 1468;
+    if($password){
+        echo "salma";
+    } 
 ?>
