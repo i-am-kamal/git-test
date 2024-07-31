@@ -6,4 +6,5 @@
     else{
         echo true;
     }
+    print("Hello World!");
 ?>
