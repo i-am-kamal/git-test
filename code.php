@@ -5,4 +5,10 @@
     $name = "amir";
     $last_name = "kamal";
     echo $name . '<br>' . $last_name;
+    if($name || $age){
+        echo "There are something to use.";
+    }
+    else{
+        echo "noting is to use.";
+    }
 ?>
