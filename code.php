@@ -15,4 +15,7 @@
     function sum($x , $y){
         return $x + $y;
     }
+    function print($x){
+        return $x;
+    }
 ?>
