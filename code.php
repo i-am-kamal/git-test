@@ -12,4 +12,7 @@
         echo "noting is to use.";
     }
     echo "Hello world!";
+    function sum($x , $y){
+        return $x + $y;
+    }
 ?>
